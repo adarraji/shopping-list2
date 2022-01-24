@@ -1,7 +1,7 @@
 # Shopping List - 2
 Another solution for Shopping list. Created with javascript, html and css
 
-You can see the website [here](https://adarraji.github.io/shopping-list/)
+You can see the website [here](https://adarraji.github.io/shopping-list2/)
 
 
 * If you click on the list item, it toggles ON and OFF.
